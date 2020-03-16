@@ -5,5 +5,5 @@
 
 ## Install
 ```
-pastebin run xxxxxxxx
+pastebin run tLCVxNtm
 ```
